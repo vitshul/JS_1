@@ -46,10 +46,10 @@ number -= 1;
 /*alert(number);*/
 
 var RESULT = 'ЧИСЛА\n' +
-    'Задание 1 \n a + b = '+sum+'\n a - b = '+razn+'\n a * b = '+proizv+'\n a / b = '+del+
+    'Задание 1 \n a + b = '+sum+'; a - b = '+razn+'; a * b = '+proizv+'; a / b = '+del+
     '\nЗадание 2 \n result = '+result+
     '\nСТРОКИ'+
-    '\nЗадание 3.2 \n'+
+    '\nЗадание 3.1 \n'+
     'В часе - '+secHour+' секунд, в сутках - '+secDay+' секунд, в месяце - '+secMonth1+' или '+secMonrh2+' секунд.'+
     '\nЗадание 3.2 \n'+
     'Текущее время : '+hour+':'+minut+':'+second+
